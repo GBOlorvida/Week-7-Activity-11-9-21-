@@ -1,0 +1,137 @@
+/* CLASSES */
+.h1 {
+  font-size: 30px;
+  font-style: italic;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  color: rgb(76, 159, 192);
+}
+
+.h2 {
+  font-size: 45px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  color: rgb(55, 141, 175);
+}
+
+.h3 {
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  color: rgb(90, 157, 184);
+}
+
+.h4 {
+  font-size: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  color: black;
+  margin-left: auto;
+  margin-right: auto;
+  width: 150px;
+}
+
+.p {
+  font-size: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: normal;
+  color: black;
+}
+
+.aside-container {
+  border: 5px solid;
+  border-color: rgb(83, 176, 199);
+  border-left: 10px;
+  border-right: 10px;
+}
+
+.aside-p {
+  font-size: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  color: black;
+}
+
+.first-child {
+  font-size: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  color: black;
+}
+
+.last-child {
+  font-size: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+  color: black;
+}
+
+.header-container {
+  border: 10px solid;
+  border-top-color: rgb(71, 153, 173);
+  border-left: 10px;
+  border-right: 10px;
+  border-bottom: 10px;
+}
+
+header {
+  padding: 250px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 10px;
+  background-color: rgb(238, 238, 238);
+  display: inline-block;
+  text-align: left;
+}
+
+.button1 {
+  margin-left: 535px;
+  color: black;
+  padding: 10px 20px;
+  font-weight: bold;
+  font-size: 15px;
+  background-color: yellow;
+  border-color: yellow;
+}
+
+.button2 {
+  margin-left: 980px;
+  color: black;
+  padding: 10px 20px;
+  font-weight: bold;
+  font-size: 10px;
+  background-color: rgb(224, 224, 224);
+}
+
+.body {
+  margin-left: auto;
+  margin-right: auto;
+  width: 600px;
+}
+
+/* FOR LINKS */
+a:link {
+  color: rgb(76, 159, 192);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  text-indent: 30px;
+  font-weight: bold;
+}
+
+a:active {
+  background-color: yellow;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+a:visited {
+  color: rgb(76, 159, 192);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+a:hover {
+  font-size: large;
+  font-family: Arial, Helvetica, sans-serif;
+  text-decoration: underline;
+  color: gold;
+  background-color: black;
+}
